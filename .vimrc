@@ -1,6 +1,8 @@
 let $PYTHONPATH="$PYTHONPATH:/usr/local/lib/python2.7/site-packages"
 set laststatus=2
+set noautoindent
 set nocompatible
+set paste
 set backspace=indent,eol,start
 syntax on
 
